@@ -6,7 +6,7 @@ It is an imposter bot detector that uses NLP and pretrained LLMs.
 
 ## Data
 The data is trained on actual bot responses and human responses.
-The model is trained on Synthetic data, which were generated using the generated_text.py. 
+The model is trained on synthetic data, which were generated using the generated_text.py. 
 However, the model will and can be tested with real texts or files using the feature_extraction function to extract features.
 
 ## Tools
